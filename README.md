@@ -9307,6 +9307,13 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/AbbasNS">
+            <img src="https://avatars.githubusercontent.com/u/49131500?v=4" width="100;" alt="AbbasNS"/>
+            <br />
+            <sub><b>Abbas Sabra</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/alandefreitas">
             <img src="https://avatars.githubusercontent.com/u/5369819?v=4" width="100;" alt="alandefreitas"/>
             <br />
@@ -9340,15 +9347,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Actions-user</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/aminya">
             <img src="https://avatars.githubusercontent.com/u/16418197?v=4" width="100;" alt="aminya"/>
             <br />
             <sub><b>Amin Yahyaabadi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/j0hnnybash">
             <img src="https://avatars.githubusercontent.com/u/100471420?v=4" width="100;" alt="j0hnnybash"/>
@@ -9383,15 +9390,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Edvins Mineikis</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/codeinred">
             <img src="https://avatars.githubusercontent.com/u/36810712?v=4" width="100;" alt="codeinred"/>
             <br />
             <sub><b>Alecto Irene Perez</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/gitplcc">
             <img src="https://avatars.githubusercontent.com/u/24852963?v=4" width="100;" alt="gitplcc"/>
@@ -9426,15 +9433,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Amro Al-Baali</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/avocadoboi">
             <img src="https://avatars.githubusercontent.com/u/24738592?v=4" width="100;" alt="avocadoboi"/>
             <br />
             <sub><b>BjC6rn Sundin</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/csernib">
             <img src="https://avatars.githubusercontent.com/u/26774231?v=4" width="100;" alt="csernib"/>
@@ -9469,15 +9476,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>MaBnt</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/globberwops">
             <img src="https://avatars.githubusercontent.com/u/11492152?v=4" width="100;" alt="globberwops"/>
             <br />
             <sub><b>Martin Stump</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Morwenn">
             <img src="https://avatars.githubusercontent.com/u/1164683?v=4" width="100;" alt="Morwenn"/>
@@ -9504,13 +9511,6 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <img src="https://avatars.githubusercontent.com/u/11663739?v=4" width="100;" alt="solosuper"/>
             <br />
             <sub><b>Solo Super</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/TheGreatRambler">
-            <img src="https://avatars.githubusercontent.com/u/31906920?v=4" width="100;" alt="TheGreatRambler"/>
-            <br />
-            <sub><b>TheGreatRambler</b></sub>
         </a>
     </td>
     <td align="center">
